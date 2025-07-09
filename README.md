@@ -2,7 +2,7 @@
 
 A full-stack, open-source e-commerce platform featuring an intelligent AI shopping assistant, vector-based product search with Pinecone, and a modern React/Next.js frontend. **Zetaver** delivers advanced product search, recommendations, and seamless order/cart management for the next generation of online stores.
 
-![Zetaver Screenshot](.github/res/zetaver-screenshot.png)
+![Zetaver Screenshot](.github/res/image-1.png)
 
 ---
 
@@ -134,17 +134,11 @@ Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contact & Community
 
-- **Website:** [https://zetaver.com](https://zetaver.com) (coming soon)
-- **GitHub Issues:** [Report a bug or request a feature](https://github.com/yourusername/zetaver/issues)
-- **Email:** hello@zetaver.com
+- **Website:** [https://zetaver.com](https://zetaver.com)
+- **GitHub Issues:** [Report a bug or request a feature](https://github.com/zetaver/issues)
+- **Email:** info@zetaver.com
 
 ---
 
